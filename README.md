@@ -38,7 +38,7 @@ A 3-page interactive Power BI dashboard enabling stakeholders to:
 
 ### Data Model
 - Star schema: central `Sales` fact table connected to `Product`, `Customer`, `Reseller`, `SalesTerritory`, `SalesOrder`, and `Date` dimension tables
-- Custom calculated `Date` table covering FY2018–FY2021, with Fiscal Year logic (year starts July 1)
+- Custom calculated `Date` table covering FY2018–FY2020, with Fiscal Year logic (year starts July 1)
 - All relationships validated and active; cross-filter direction optimized per use case
 
 ### DAX Measures (10 custom measures)
@@ -92,4 +92,4 @@ A 3-page interactive Power BI dashboard enabling stakeholders to:
 ## Author
 
 **Diana Villalba** — Power BI Developer | BI Consultant  
-[LinkedIn](https://linkedin.com/in/diana-villalba) · [GitHub](https://github.com/Dianaaracelid1)
+[LinkedIn](https://linkedin.com/in/diana-villalba-99218a276) · [GitHub](https://github.com/Dianaaracelid1)
