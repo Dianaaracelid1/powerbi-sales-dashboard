@@ -2,6 +2,8 @@
 
 An end-to-end business intelligence solution built with Power BI, demonstrating full BI ownership: data modeling, DAX measure development, and multi-page dashboard delivery.
 
+**[Download Sales.pbix](Sales.pbix)** — open in Power BI Desktop to explore the full data model, relationships, and DAX measures.
+
 ---
 
 ## Dashboard Preview
